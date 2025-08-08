@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **VidoVigal**
 
-- 🌱 I’m currently learning **Django, python**
+- 🌱 I’m currently learning **Django, python, Flask, BootstrapsV5, REST APIs, HTML, CSS**
 
-- 💬 Ask me about **Django Python**
+- 💬 Ask me about **Python, Django & Flask**
 
 - 📫 How to reach me **gabbass710@gmail.com**
 
